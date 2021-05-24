@@ -1,0 +1,12 @@
+{
+    "contract": [
+        {
+          "name": "SamplePunks",
+          "description": "Sample punks for a project",
+          "image": "https://gateway.pinata.cloud/ipfs/QmWE7MSR17dT2s7mxHev78NWXWRmJ9yGhqTLr5DinALQGr",
+          "external_link": "https://samplepunks.com",
+          "seller_fee_basis_points": 1000,
+          "fee_recipient": "0xb9B6856eFD128294a912D584366448BC3d4Ea979"
+        }
+    ]
+}
